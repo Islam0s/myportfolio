@@ -1,4 +1,4 @@
-<div>
+<div class="flex-col flex items-center pt-30 w-full">
 
   <h1 class="text-blue-300 text-9xl">Welcome</h1>
   <h1 class="text-gray-400 flex justify-center py-5">scroll down to see more.</h1>
