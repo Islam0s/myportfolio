@@ -1,2 +1,9 @@
-<h1>Welcome to SvelteKit</h1>
-<p>Visit <a href="https://svelte.dev/docs/kit">svelte.dev/docs/kit</a> to read the documentation</p>
+<script>
+  import Welcome from './componentes/Welcome.svelte';
+</script>
+
+<div class="w-full h-dvh bg-neutral-900 flex justify-center pt-20">
+
+  <Welcome/>
+
+</div>
