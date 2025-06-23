@@ -5,11 +5,37 @@
 
 </div>
 
-<div class="text-white">
-  <div class="bg-neutral-900 rounded">
-    <h2>Hobbies</h2>
+<div class="text-white flex">
+  <div id="firstbox" class="bg-neutral-900 rounded-xl w-46 h-48 ml-32 mt-20 p-6 border border-yellow-800/30">
+    <h2 class="mb-3">Hobbies</h2>
     <p>Computer Enginner, Going to the Gym and nature</p>
   </div>
 
+  
+ <div class="text-white">
+  <div id="secondbox" class="bg-neutral-900 rounded-xl w-46 h-48 ml-20 mt-20 p-6 border border-green-800/30">
+    <h2 class="mb-3">Jokes</h2>
+    <p>this text for just as an example to see if it is working</p>
+  </div>
+ </div>
+
+</div>
+
+
+
+
+<div class="text-white flex">
+  <div id="therdbox" class="bg-neutral-900 rounded-xl w-46 h-48 ml-32 mt-20 p-6 border border-blue-800/30">
+    <h2 class="mb-3">Hobbies</h2>
+    <p>Computer Enginner, Going to the Gym and nature</p>
+  </div>
+
+  
+ <div class="text-white">
+  <div id="forthbox" class="bg-neutral-900 rounded-xl w-46 h-48 ml-20 mt-20 p-6 border border-yellow-800/30">
+    <h2 class="mb-3">Jokes</h2>
+    <p>this text for just as an example to see if it is working</p>
+  </div>
+ </div>
 
 </div>
