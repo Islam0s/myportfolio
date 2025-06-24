@@ -48,6 +48,7 @@
 		]
 	},
 	"dependencies": {
+		"@iconify/svelte": "^5.0.0",
 		"simple-icons": "^15.3.0"
 	}
 }
