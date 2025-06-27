@@ -5,3 +5,7 @@
 body {
   background-color: black;
 }
+
+.box_phone {
+  @apply mt-20 ml-32 h-48 w-54 rounded-xl border border-yellow-800/30 bg-neutral-900 p-6;
+}
