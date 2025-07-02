@@ -1,11 +1,22 @@
-<div class="flex min-h-screen w-full flex-col items-center px-4 pt-20">
-	<h1 class="text-4xl text-blue-300 sm:text-6xl md:text-7xl lg:text-9xl">Welcome</h1>
-	<h1 class="flex justify-center py-5 text-center text-lg text-gray-400 sm:text-xl md:text-2xl">
-		scroll down to see more.
-	</h1>
-	<div class="mt-10 animate-bounce">
-		<span class="flex justify-center text-3xl text-blue-300 sm:text-4xl md:text-5xl">
-			&#8595;
-		</span>
+<script>
+</script>
+
+<section
+	class="flex w-full flex-col justify-center bg-[#1a1a1a] pt-10 text-center text-[#f5f5f5] md:pt-20"
+>
+	<div class="text-center">
+		<h1 class="mb-10 font-serif text-4xl tracking-wide text-[#c0392b] md:text-6xl lg:text-9xl">
+			The Way of t he Samurai
+		</h1>
+		<p class="mb-10 text-lg md:mb-20 md:text-2xl">
+			Welcome in, I'am islam – a digital ronin crafting code with discipline and elegance.
+		</p>
+
+		<a
+			href="#button"
+			class="m-10 inline-block rounded-full border-2 border-[#c9b037] px-4 py-2 text-lg text-[#c9b037]"
+		>
+			Enter the jodo
+		</a>
 	</div>
-</div>
+</section>
