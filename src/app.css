@@ -1,7 +1,0 @@
-@import 'tailwindcss';
-@plugin '@tailwindcss/typography';
-@import url('https://fonts.googleapis.com/css2?family=Libertinus+Mono&display=swap');
-
-body {
-  background-color: black;
-}
