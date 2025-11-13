@@ -78,6 +78,7 @@
 
 		<div class="bg-black">
 			<h1>My Projects</h1>
+			<div></div>
 		</div>
 	</section>
 </main>
